@@ -42,12 +42,7 @@ Kubernetes helps adjust cluster size according to application demands.
 
 The smallest deployment unit managed by Kubernetes. It is a group of one or more containers.
 
-
-
 ![pods](pods.png)
-
-
-
 
 
 ## 🤔 Difference between ECS and EKS
